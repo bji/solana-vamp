@@ -1,6 +1,6 @@
 [package]
 name = "solana-vamp"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "solana-vamp is a utility program that can be used to interact with the Solana Vote Account Manager program"
 license = "GPL-3.0-only"
